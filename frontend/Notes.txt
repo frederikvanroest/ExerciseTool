@@ -1,0 +1,2 @@
+melding: It must function in hash mode to work in Electron
+https://stackoverflow.com/questions/63270184/vue-cli-plugin-electron-builder-shows-complete-blank-screen-on-build
